@@ -1,0 +1,285 @@
+TQAT
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Info.plist QAT/QAT-Info.plist
+cProcessPCH /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.pth QAT/QAT-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.o /Users/colinmoore/Documents/workspace/QAT/QAT/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.o /Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.o /Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.o /Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT normal i386
+cGenerateDSYMFile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT
+cCopyStringsFile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/InfoPlist.strings QAT/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/MainStoryboard_iPhone.storyboard
+cCpResource "QAT/Mustache_Machine copy.png" "DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine copy.png"
+cTouch /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F68C5090000000000244490
+t1332266249
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F68C5130000000000353830
+t1332266259
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F68C52C0000000000905E40
+t1332266284
+s9461312
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.pth
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QAT.LinkFileList
+c000000004F93A8C8000000000000027C
+t1335077064
+s636
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.o
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.o
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.o
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Info.plist
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine copy.png
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/PkgInfo
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/Mustache_Machine copy.png
+c000000004F8E4D1C0000000000001F08
+t1334725916
+s7944
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/QAT-Prefix.pch
+c000000004F93998A0000000000000135
+t1335073162
+s309
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m
+c000000004F93998A000000000000097B
+t1335073162
+s2427
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m
+c000000004F93998A0000000000000A02
+t1335073162
+s2562
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m
+c000000004F93998A0000000000001134
+t1335073162
+s4404
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/InfoPlist.strings
+c000000004F93998A000000000000002D
+t1335073162
+s45
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/MainStoryboard_iPhone.storyboard
+c000000004F93A2C100000000000021B0
+t1335075521
+s8624
+
+N/Users/colinmoore/Documents/workspace/QAT/QAT/main.m
+c000000004F93998A000000000000014E
+t1335073162
+s334
+
+NQAT/QAT-Info.plist
+c000000004F93998A0000000000000641
+t1335073162
+s1601
+
+CBuild AST from /Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m
+r0
+
+CBuild AST from /Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m
+r0
+
+CBuild AST from /Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m
+r0
+
+CBuild AST from /Users/colinmoore/Documents/workspace/QAT/QAT/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6f2ea248e043b541^c171ad48e043b541^---0#1#0#--18"Check dependencies36"EEF1E3F7-5177-4101-AE58-7B9361E41AA1-
+
+CCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.o /Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356769864.990134
+e356769865.069911
+r1
+xCompileC
+xDerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.o
+x/Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.md9b1fd48e043b541^d8ef1149e043b541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m0000000000000000^3533"CompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.o QAT/QATAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/colinmoore/Documents/workspace/QAT    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-generated-files.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-own-target-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-all-target-headers.hmap -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-project-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/include -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources/i386 -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources -F/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator -include /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch -MMD -MT dependencies -MF /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.d --serialize-diagnostics /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.dia -c /Users/colinmoore/Documents/workspace/QAT/QAT/QATAppDelegate.m -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATAppDelegate.o36"5BCCD4C5-1AA7-4D64-9506-A9351F9523E7-
+
+CCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.o /Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356769864.990709
+e356769865.069914
+r1
+xCompileC
+xDerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.o
+x/Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.mf2d2fd48e043b541^25e61149e043b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m0000000000000000^3587"CompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.o QAT/QATDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/colinmoore/Documents/workspace/QAT    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-generated-files.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-own-target-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-all-target-headers.hmap -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-project-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/include -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources/i386 -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources -F/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator -include /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch -MMD -MT dependencies -MF /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.d --serialize-diagnostics /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.dia -c /Users/colinmoore/Documents/workspace/QAT/QAT/QATDetailViewController.m -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATDetailViewController.o36"15E1A9B8-4741-47D4-A078-607F0ADE9D9D-
+
+CCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.o /Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356769864.990080
+e356769865.079545
+r1
+xCompileC
+xDerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.o
+x/Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m5bb3fd48e043b541^d05f1449e043b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m0000000000000000^3587"CompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.o QAT/QATMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/colinmoore/Documents/workspace/QAT    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-generated-files.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-own-target-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-all-target-headers.hmap -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-project-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/include -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources/i386 -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources -F/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator -include /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch -MMD -MT dependencies -MF /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.d --serialize-diagnostics /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.dia -c /Users/colinmoore/Documents/workspace/QAT/QAT/QATMasterViewController.m -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QATMasterViewController.o36"2296F980-989F-4234-8E23-EC38A653DE39-
+
+CCompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.o /Users/colinmoore/Documents/workspace/QAT/QAT/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356769864.990043
+e356769865.032943
+r1
+xCompileC
+xDerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.o
+x/Users/colinmoore/Documents/workspace/QAT/QAT/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/colinmoore/Documents/workspace/QAT/QAT/main.mc2d9fd48e043b541^17820849e043b541^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/main.m0000000000000000^3473"CompileC DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.o QAT/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/colinmoore/Documents/workspace/QAT    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-generated-files.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-own-target-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-all-target-headers.hmap -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-project-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/include -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources/i386 -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources -F/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator -include /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch -MMD -MT dependencies -MF /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.dia -c /Users/colinmoore/Documents/workspace/QAT/QAT/main.m -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/main.o36"36BE1915-505F-4C1C-9405-D3A782489037-
+
+CCompileStoryboard /Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/MainStoryboard_iPhone.storyboard
+s356769865.148261
+e356769865.362446
+r1
+xCompileStoryboard
+x/Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard QAT/en.lproj/MainStoryboard_iPhone.storyboardba112649e043b541^4dda5c49e043b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^942"CompileStoryboard QAT/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/colinmoore/Documents/workspace/QAT    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"5E94374A-8D80-40E2-BECE-2FBD4C44C5F8-
+
+CCopyStringsFile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/InfoPlist.strings QAT/en.lproj/InfoPlist.strings
+s356769865.148229
+e356769865.152575
+r1
+xCopyStringsFile
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/InfoPlist.strings
+xQAT/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy QAT/en.lproj/InfoPlist.stringsaa0d2649e043b541^7c0f2749e043b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/en.lproj/InfoPlist.strings0000000000000000^615"CopyStringsFile DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj/InfoPlist.strings QAT/en.lproj/InfoPlist.strings    cd /Users/colinmoore/Documents/workspace/QAT    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/en.lproj -- QAT/en.lproj/InfoPlist.strings36"C0D03929-2C8D-450D-B210-0E56461E11D8-
+
+CCpResource "QAT/Mustache_Machine copy.png" "DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine copy.png"
+s356769865.148279
+e356769865.151178
+r1
+xCpResource
+xQAT/Mustache_Machine copy.png
+xDerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine copy.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine copy.pnge50b2649e043b541^46b32649e043b541^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine%20copy.png000000000080d041^770"CpResource "QAT/Mustache_Machine copy.png" "DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Mustache_Machine copy.png"    cd /Users/colinmoore/Documents/workspace/QAT    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/colinmoore/Documents/workspace/QAT/QAT/Mustache_Machine copy.png" /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app36"936332F0-0D36-4AD5-9046-40000119FB12-
+
+CGenerateDSYMFile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT
+s356769865.121886
+e356769865.140011
+r1
+xGenerateDSYMFile
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generating /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM0a4c1f49e043b541^b2d72349e043b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM000000000080d041^719"GenerateDSYMFile DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT    cd /Users/colinmoore/Documents/workspace/QAT    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app.dSYM36"474ACD7D-065E-4337-82A6-6765222C251E-
+
+CLd /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT normal i386
+s356769865.087097
+e356769865.115572
+r1
+xLd
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QATc85f1649e043b541^cd951d49e043b541^---0#0#0#--1278"Ld DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT normal i386    cd /Users/colinmoore/Documents/workspace/QAT    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator -F/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator -filelist /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/Objects-normal/i386/QAT.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/QAT36"062864A3-2E4E-4D90-B062-9E30FBBC4727-
+
+CProcessInfoPlistFile /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Info.plist QAT/QAT-Info.plist
+s356769864.681852
+e356769864.686033
+r1
+xProcessInfoPlistFile
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Info.plist
+xQAT/QAT-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Process QAT/QAT-Info.plistb1a6ae48e043b541^a5a0af48e043b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/QAT-Info.plist0000000000000000^706"ProcessInfoPlistFile DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Info.plist QAT/QAT-Info.plist    cd /Users/colinmoore/Documents/workspace/QAT    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QAT/QAT-Info.plist -genpkginfo /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app/Info.plist36"D944C4AE-EDA0-4A67-9DA5-DEA89BA4DA4D-
+
+CProcessPCH /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.pth QAT/QAT-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356769864.694917
+e356769864.982871
+r1
+xProcessPCH
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.pth
+xQAT/QAT-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile QAT/QAT-Prefix.pch2e03b248e043b541^289efb48e043b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/colinmoore/Documents/workspace/QAT/QAT/QAT-Prefix.pch0000000000000000^3369"ProcessPCH DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.pth QAT/QAT-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/colinmoore/Documents/workspace/QAT    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-generated-files.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-own-target-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-all-target-headers.hmap -iquote /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/QAT-project-headers.hmap -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/include -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources/i386 -I/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/QAT.build/Debug-iphonesimulator/QAT.build/DerivedSources -F/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.dia -c /Users/colinmoore/Documents/workspace/QAT/QAT/QAT-Prefix.pch -o /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.pth -MMD -MT dependencies -MF /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Intermediates/PrecompiledHeaders/QAT-Prefix-etqgbsssuopsulememylrkhoeufr/QAT-Prefix.pch.d36"9A74BA94-155E-4CE8-A5C7-2531397852A1-
+
+CProcessPCH /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Index/PrecompiledHeaders/QAT-Prefix-hgzufpdmyvwjejbfscnskobqxmwc_ast/QAT-Prefix.pch.pth QAT/QAT-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app
+s356769865.371147
+e356769865.375853
+r1
+xTouch
+x/Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.appf8195f49e043b541^d6376049e043b541^---0#0#0#--436"Touch DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app    cd /Users/colinmoore/Documents/workspace/QAT    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/colinmoore/Documents/workspace/QAT/DerivedData/QAT/Build/Products/Debug-iphonesimulator/QAT.app36"3F2893B9-B847-472C-8064-FA859A2BF62E-
+
