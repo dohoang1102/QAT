@@ -24,17 +24,17 @@
 		41350D641543D10A004352FB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		41350D661543D10A004352FB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		41350D681543D10A004352FB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		41350D6C1543D10A004352FB /* QAT-Info.plist */ = {isa = PBXFileReference; path = "QAT-Info.plist"; sourceTree = "<group>"; };
+		41350D6C1543D10A004352FB /* QAT-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QAT-Info.plist"; sourceTree = "<group>"; };
 		41350D6E1543D10A004352FB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		41350D701543D10A004352FB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		41350D721543D10A004352FB /* QAT-Prefix.pch */ = {isa = PBXFileReference; path = "QAT-Prefix.pch"; sourceTree = "<group>"; };
-		41350D731543D10A004352FB /* QATAppDelegate.h */ = {isa = PBXFileReference; path = QATAppDelegate.h; sourceTree = "<group>"; };
+		41350D721543D10A004352FB /* QAT-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QAT-Prefix.pch"; sourceTree = "<group>"; };
+		41350D731543D10A004352FB /* QATAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QATAppDelegate.h; sourceTree = "<group>"; };
 		41350D741543D10A004352FB /* QATAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QATAppDelegate.m; sourceTree = "<group>"; };
 		41350D771543D10A004352FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		41350D7A1543D10A004352FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		41350D7C1543D10A004352FB /* QATMasterViewController.h */ = {isa = PBXFileReference; path = QATMasterViewController.h; sourceTree = "<group>"; };
+		41350D7C1543D10A004352FB /* QATMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QATMasterViewController.h; sourceTree = "<group>"; };
 		41350D7D1543D10A004352FB /* QATMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QATMasterViewController.m; sourceTree = "<group>"; };
-		41350D7F1543D10A004352FB /* QATDetailViewController.h */ = {isa = PBXFileReference; path = QATDetailViewController.h; sourceTree = "<group>"; };
+		41350D7F1543D10A004352FB /* QATDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QATDetailViewController.h; sourceTree = "<group>"; };
 		41350D801543D10A004352FB /* QATDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QATDetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
