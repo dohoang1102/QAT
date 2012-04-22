@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		41350D651543D10A004352FB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41350D641543D10A004352FB /* UIKit.framework */; };
+		41350D671543D10A004352FB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41350D661543D10A004352FB /* Foundation.framework */; };
+		41350D691543D10A004352FB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41350D681543D10A004352FB /* CoreGraphics.framework */; };
+		41350D6F1543D10A004352FB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 41350D6D1543D10A004352FB /* InfoPlist.strings */; };
+		41350D711543D10A004352FB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 41350D701543D10A004352FB /* main.m */; };
+		41350D751543D10A004352FB /* QATAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 41350D741543D10A004352FB /* QATAppDelegate.m */; };
+		41350D781543D10A004352FB /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41350D761543D10A004352FB /* MainStoryboard_iPhone.storyboard */; };
+		41350D7B1543D10A004352FB /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41350D791543D10A004352FB /* MainStoryboard_iPad.storyboard */; };
+		41350D7E1543D10A004352FB /* QATMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41350D7D1543D10A004352FB /* QATMasterViewController.m */; };
+		41350D811543D10A004352FB /* QATDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41350D801543D10A004352FB /* QATDetailViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		41350D601543D10A004352FB /* QAT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QAT.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		41350D641543D10A004352FB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		41350D661543D10A004352FB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		41350D681543D10A004352FB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		41350D6C1543D10A004352FB /* QAT-Info.plist */ = {isa = PBXFileReference; path = "QAT-Info.plist"; sourceTree = "<group>"; };
+		41350D6E1543D10A004352FB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		41350D701543D10A004352FB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		41350D721543D10A004352FB /* QAT-Prefix.pch */ = {isa = PBXFileReference; path = "QAT-Prefix.pch"; sourceTree = "<group>"; };
+		41350D731543D10A004352FB /* QATAppDelegate.h */ = {isa = PBXFileReference; path = QATAppDelegate.h; sourceTree = "<group>"; };
+		41350D741543D10A004352FB /* QATAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QATAppDelegate.m; sourceTree = "<group>"; };
+		41350D771543D10A004352FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		41350D7A1543D10A004352FB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		41350D7C1543D10A004352FB /* QATMasterViewController.h */ = {isa = PBXFileReference; path = QATMasterViewController.h; sourceTree = "<group>"; };
+		41350D7D1543D10A004352FB /* QATMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QATMasterViewController.m; sourceTree = "<group>"; };
+		41350D7F1543D10A004352FB /* QATDetailViewController.h */ = {isa = PBXFileReference; path = QATDetailViewController.h; sourceTree = "<group>"; };
+		41350D801543D10A004352FB /* QATDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QATDetailViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		41350D5D1543D10A004352FB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41350D651543D10A004352FB /* UIKit.framework in Frameworks */,
+				41350D671543D10A004352FB /* Foundation.framework in Frameworks */,
+				41350D691543D10A004352FB /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		41350D551543D10A004352FB = {
+			isa = PBXGroup;
+			children = (
+				41350D6A1543D10A004352FB /* QAT */,
+				41350D631543D10A004352FB /* Frameworks */,
+				41350D611543D10A004352FB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		41350D611543D10A004352FB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				41350D601543D10A004352FB /* QAT.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		41350D631543D10A004352FB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				41350D641543D10A004352FB /* UIKit.framework */,
+				41350D661543D10A004352FB /* Foundation.framework */,
+				41350D681543D10A004352FB /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		41350D6A1543D10A004352FB /* QAT */ = {
+			isa = PBXGroup;
+			children = (
+				41350D731543D10A004352FB /* QATAppDelegate.h */,
+				41350D741543D10A004352FB /* QATAppDelegate.m */,
+				41350D761543D10A004352FB /* MainStoryboard_iPhone.storyboard */,
+				41350D791543D10A004352FB /* MainStoryboard_iPad.storyboard */,
+				41350D7C1543D10A004352FB /* QATMasterViewController.h */,
+				41350D7D1543D10A004352FB /* QATMasterViewController.m */,
+				41350D7F1543D10A004352FB /* QATDetailViewController.h */,
+				41350D801543D10A004352FB /* QATDetailViewController.m */,
+				41350D6B1543D10A004352FB /* Supporting Files */,
+			);
+			path = QAT;
+			sourceTree = "<group>";
+		};
+		41350D6B1543D10A004352FB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				41350D6C1543D10A004352FB /* QAT-Info.plist */,
+				41350D6D1543D10A004352FB /* InfoPlist.strings */,
+				41350D701543D10A004352FB /* main.m */,
+				41350D721543D10A004352FB /* QAT-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		41350D5F1543D10A004352FB /* QAT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41350D841543D10A004352FB /* Build configuration list for PBXNativeTarget "QAT" */;
+			buildPhases = (
+				41350D5C1543D10A004352FB /* Sources */,
+				41350D5D1543D10A004352FB /* Frameworks */,
+				41350D5E1543D10A004352FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QAT;
+			productName = QAT;
+			productReference = 41350D601543D10A004352FB /* QAT.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		41350D571543D10A004352FB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = QAT;
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = Home;
+			};
+			buildConfigurationList = 41350D5A1543D10A004352FB /* Build configuration list for PBXProject "QAT" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 41350D551543D10A004352FB;
+			productRefGroup = 41350D611543D10A004352FB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				41350D5F1543D10A004352FB /* QAT */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		41350D5E1543D10A004352FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41350D6F1543D10A004352FB /* InfoPlist.strings in Resources */,
+				41350D781543D10A004352FB /* MainStoryboard_iPhone.storyboard in Resources */,
+				41350D7B1543D10A004352FB /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		41350D5C1543D10A004352FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41350D711543D10A004352FB /* main.m in Sources */,
+				41350D751543D10A004352FB /* QATAppDelegate.m in Sources */,
+				41350D7E1543D10A004352FB /* QATMasterViewController.m in Sources */,
+				41350D811543D10A004352FB /* QATDetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		41350D6D1543D10A004352FB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41350D6E1543D10A004352FB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		41350D761543D10A004352FB /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41350D771543D10A004352FB /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		41350D791543D10A004352FB /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41350D7A1543D10A004352FB /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		41350D821543D10A004352FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		41350D831543D10A004352FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		41350D851543D10A004352FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QAT/QAT-Prefix.pch";
+				INFOPLIST_FILE = "QAT/QAT-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		41350D861543D10A004352FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QAT/QAT-Prefix.pch";
+				INFOPLIST_FILE = "QAT/QAT-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		41350D5A1543D10A004352FB /* Build configuration list for PBXProject "QAT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41350D821543D10A004352FB /* Debug */,
+				41350D831543D10A004352FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41350D841543D10A004352FB /* Build configuration list for PBXNativeTarget "QAT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41350D851543D10A004352FB /* Debug */,
+				41350D861543D10A004352FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 41350D571543D10A004352FB /* Project object */;
+}
